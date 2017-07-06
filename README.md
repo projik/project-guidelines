@@ -1,5 +1,5 @@
 
-![Logo of the project](./logo.png)
+![Logo of the project](./growsuper-logo.png)
 
 # Project Guidelines &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 > While developing a new project is like rolling on a green field for you, maintaining it is a potential dark twisted nightmare for someone else.
